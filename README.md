@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kabilan
 -    I have done BE/Computer Science & Engineering at SRIET in Coimbatore,TamilNadu.2020-2024 batch student.
 -    I'm from TamilNadu,India
--    Now,I'm a fresher and looking for a job as a DevOps engineer.
+-    Now,I'm a fresher and looking for a job as a Junior DevOps engineer.
 - 👀 I’m interested in DevOps Engineer & AWS Cloud Platform domain fields
 - 🌱 I’m currently learning AWS ...
 - 💞️ I’m looking to collaborate on ...

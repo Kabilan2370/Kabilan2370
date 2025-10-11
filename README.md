@@ -1,8 +1,6 @@
 *👋 Hi all, fellow DevOps Engineers!
 
-* I'm Kabilan from Tamil Nadu, India. I’m currently working at Carveniche by beGalileo as an AWS DevOps Engineer and also support the team as a Tech Support Engineer.
-
-* I’ve been working here for the past 5 months, and I’m passionate about continuous learning. Every day, I make it a point to learn something new to grow both personally and professionally.
+* I'm Kabilan from Tamil Nadu, India. I’ve been working here for a year, and I’m passionate about continuous learning. Every day, I make it a point to learn something new to grow both personally and professionally.
 
 * 👀 My long-term goal is to become an AWS DevOps Engineer at Amazon, and I’m actively studying and preparing to achieve that dream.
 
